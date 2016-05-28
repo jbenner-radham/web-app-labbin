@@ -1,3 +1,6 @@
+# Compiled files
+.tmp
+
 # Logs
 logs
 *.log
