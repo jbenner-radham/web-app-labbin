@@ -1,0 +1,40 @@
+{
+  "name": "web-app-labbin",
+  "version": "0.0.0",
+  "description": "A web app architecture prototype lab... or something.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbenner-radham/web-app-labbin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbenner-radham/web-app-labbin/issues"
+  },
+  "homepage": "https://github.com/jbenner-radham/web-app-labbin#readme",
+  "devDependencies": {
+    "babel-polyfill": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "browser-sync": "^2.12.10",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-cache": "^0.4.5",
+    "gulp-concat": "^2.6.0",
+    "gulp-declare": "^0.3.0",
+    "gulp-eslint": "^2.0.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-requirejs-optimize": "^1.0.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-wrap": "^0.13.0",
+    "stream-browserify": "^2.0.1"
+  }
+}
